@@ -13,5 +13,5 @@ async def on_ready():
 @client.event
 async def on_message(message):
     print(message.content)
-client.run('NzE2NDEyMzcxMjAzMTI5MzU0.GRRO9d.jEefcv94LHzXpVpUy550wXI-Xh-nK623IvXvfE')
+client.run('token')
 # await bot.process_commands(message)
